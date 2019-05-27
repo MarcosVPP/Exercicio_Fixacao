@@ -1,0 +1,14 @@
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.exe.config
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.exe
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.pdb
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.csprojResolveAssemblyReference.cache
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.csproj.CoreCompileInputs.cache
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.exe
+C:\Users\julio.marvim\source\repos\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.pdb
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.exe.config
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.exe
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\bin\Debug\ExerciciosApostila.pdb
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.csprojAssemblyReference.cache
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.csproj.CoreCompileInputs.cache
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.exe
+C:\Backup Marcos Pereira\backup v1\Repositorios Git\ExerciciosApostila\ExerciciosApostila\obj\Debug\ExerciciosApostila.pdb
